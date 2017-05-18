@@ -1,12 +1,12 @@
 ## Welcome to GitHub
 
 
-# Installation
+## Installation
 
 `sudo apt-get install python-setuptools python-numpy python-scipy python-matplotlib python-pip -y`
 `sudo pip install numpy scipy matplotlib scikit-learn luminol`
 
-# Setting up Logs
+## Setting up Logs
 
 You must give the location of log files in order to run this program. Following is the log format for any web server
 
@@ -23,10 +23,10 @@ You must give the location of log files in order to run this program. Following 
 %D is time taken to serve the request
 %U is the url path
 
-# Running Procedure
+## Running Procedure
 
 `python App.py [-h] train_filepath test_filepath`
 
-# Contributions
+## Contributions
 
 Contributors are always welcome.I am ready to accept contributions.
